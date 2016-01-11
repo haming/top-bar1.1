@@ -1,0 +1,23 @@
+
+.top_name{
+  background-color: #3e3e3e;
+}
+
+.top_name a{
+  padding-right: 10px;
+  padding-left: 10px;
+  font-size: 22px;
+  color: #9b9b9b;
+}
+
+
+.setting{
+  background-color: #515151;
+}
+
+.setting a{
+  font-size: 16px;
+  color: #9b9b9b;
+  margin-top: 5px;
+}
+
